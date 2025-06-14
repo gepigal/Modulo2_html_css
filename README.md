@@ -1,2 +1,2 @@
 # Modulo2_html_css
-Practia MNodulo 2 fullstack
+Practica Modulo 2 fullstack repositorio en nube con Git
